@@ -1,1 +1,1 @@
-# ViaStay-Hotel-Reservatin-Java-MySql-JDBC
+# ViaStay-Hotel-Reservation-Java-MySql-JDBC
